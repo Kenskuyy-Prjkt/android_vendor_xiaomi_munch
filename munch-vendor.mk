@@ -453,6 +453,9 @@ PRODUCT_PACKAGES += \
     libwfdutils_proprietary \
     libasphere \
     libmisoundfx \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libshoebox \
     vendor.qti.hardware.audiohalext@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
